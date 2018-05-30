@@ -26,7 +26,7 @@ Building requires Go 1.2 to be installed: http://golang.org/
 
 ```
     export GOPATH=`pwd`
-    git clone https://github.com/google/namebench.git src/github.com/google/namebench
+    git clone https://github.com/RapWolf/namebench.git src/github.com/RapWolf/namebench
     go get github.com/mattn/go-sqlite3
     go get golang.org/x/net/publicsuffix
     go get github.com/miekg/dns
@@ -35,7 +35,7 @@ Building requires Go 1.2 to be installed: http://golang.org/
 * Build it.
 
 ```
-    cd src/github.com/google/namebench
+    cd src/github.com/RapWolf/namebench
     go build namebench.go
 ```
 
