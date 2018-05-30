@@ -1,7 +1,7 @@
 package dnschecks
 
 import (
-	"github.com/google/namebench/dnsqueue"
+	"github.com/RapWolf/namebench/dnsqueue"
 	"log"
 	"strings"
 )
